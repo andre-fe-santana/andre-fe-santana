@@ -3,8 +3,7 @@
 <!-- INFORMAÇÕES DO PERFIL -->
   <div style="display: inline-block"> <br> 
     <a href="https://github.com/andre-fe-santana">
-    <img height="45%" src="https://github-readme-stats.vercel.app/api?username=andre-fe-santana&show_icons=true&theme=tokyonight&repo=github-readme-stats">
-    <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fe-santana&theme=tokyonight&layout=compact">
+    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=andre-fe-santana&show_icons=true&theme=tokyonight&repo=github-readme-stats">
   </div>
   
   <div> 
