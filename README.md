@@ -1,7 +1,7 @@
 <!-- INFORMAÇÕES DO PERFIL -->
   <div style="display: inline-block"> <br> 
     <a href="https://github.com/andre-fe-santana">
-    <img height="30%" width="70%" src="https://github-readme-stats.vercel.app/api?username=andre-fe-santana&show_icons=true&theme=tokyonight&repo=github-readme-stats">
+    <img height="10%" width="100%" src="https://github-readme-stats.vercel.app/api?username=andre-fe-santana&show_icons=true&theme=tokyonight&repo=github-readme-stats">
   </div>
   
   <div style="display: inline-block"> <br> 
