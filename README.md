@@ -13,8 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -33,6 +31,13 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 
+<p align="left">
+  <strong>🧰 Frameworks:</strong>
+</p>
+
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 
 <p align="left"> 
   <strong>📂 Projetos:</strong>
